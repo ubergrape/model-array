@@ -1,0 +1,28 @@
+{
+  "name": "model-array",
+  "private": true,
+  "description": "Array properties for Swatinem/model",
+  "version": "0.0.1",
+  "keywords": [],
+  "main": "./index",
+  "maintainers": [
+    "Arpad Borsos <arpad.borsos@googlemail.com> (http://swatinem.de)"
+  ],
+  "dependencies": {
+    "array": "MatthewMueller/array"
+  },
+  "devDependencies": {
+    "model": "Swatinem/model",
+    "mocha": "*",
+    "should": "*",
+    "jscoverage": "*",
+    "coveralls": "*",
+    "mocha-lcov-reporter": "*",
+    "jshint": "*"
+  },
+  "scripts": {
+    "test": "make test && make test-coveralls"
+  },
+  "repository": "git://github.com/Swatinem/model-array.git",
+  "license": "LGPLv3"
+}
