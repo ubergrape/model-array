@@ -9,7 +9,7 @@
     "lib/index.js"
   ],
   "dependencies": {
-    "MatthewMueller/array": "*"
+    "Swatinem/array": "*"
   },
   "license": "LGPLv3"
 }

@@ -9,7 +9,7 @@
     "Arpad Borsos <arpad.borsos@googlemail.com> (http://swatinem.de)"
   ],
   "dependencies": {
-    "array": "MatthewMueller/array"
+    "array": "*"
   },
   "devDependencies": {
     "model": "Swatinem/model",
