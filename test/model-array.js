@@ -26,7 +26,7 @@ describe('array', function () {
 			.array('arr', {events: false});
 		var obj = new SomeModel();
 		obj.arr.length.should.eql(0);
-		obj.on('change', function (name) {
+		obj.on('change', function () {
 			throw new Error('unreached');
 		});
 		obj.arr.push('foo');
