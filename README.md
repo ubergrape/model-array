@@ -60,3 +60,5 @@ instance.pets.push('Zwara'); // triggers change event
 
   LGPLv3
 
+  Released as free software as part of [ChatGrape](https://chatgrape.com/)
+
