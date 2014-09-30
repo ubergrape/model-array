@@ -1,7 +1,7 @@
 {
   "name": "model-array",
-  "version": "0.0.1",
   "repo": "ubergrape/model-array",
+  "version": "0.0.2",
   "description": "Array properties for Swatinem/model",
   "keywords": [],
   "main": "index.js",
