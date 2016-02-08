@@ -22,6 +22,6 @@
   "scripts": {
     "test": "make test-coveralls"
   },
-  "license": "LGPLv3"
   "repository": "git://github.com/ubergrape/model-array.git",
+  "license": "MIT"
 }

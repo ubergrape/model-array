@@ -11,5 +11,5 @@
   "dependencies": {
     "ubergrape/array": "*"
   },
-  "license": "LGPLv3"
+  "license": "MIT"
 }
