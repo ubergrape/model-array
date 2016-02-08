@@ -1,7 +1,7 @@
 {
   "name": "model-array",
   "private": true,
-  "description": "Array properties for Swatinem/model",
+  "description": "Array properties for ubergrape/model",
   "version": "0.0.2",
   "keywords": [],
   "main": "./index",
@@ -12,7 +12,7 @@
     "array": "*"
   },
   "devDependencies": {
-    "model": "Swatinem/model",
+    "model": "ubergrape/model",
     "istanbul": "*",
     "mocha": "*",
     "should": "*",
@@ -22,6 +22,6 @@
   "scripts": {
     "test": "make test-coveralls"
   },
-  "repository": "git://github.com/Swatinem/model-array.git",
   "license": "LGPLv3"
+  "repository": "git://github.com/ubergrape/model-array.git",
 }
